@@ -1,4 +1,4 @@
-# 13nanban-un1
+# 13nanban-un2
 docker file for 13-produce-un2 with nanban (for core layers of un_base)
 
 # How to use
